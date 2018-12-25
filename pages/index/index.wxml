@@ -1,0 +1,4 @@
+<!--index.wxml-->
+  <view class="canvas-box" catchlongpress="saveAchievement">
+    <canvas style="width: 375px;height: 562px;" canvas-id="canvas_poster"/>
+  </view>
